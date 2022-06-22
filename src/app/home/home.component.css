@@ -1,0 +1,13 @@
+.row{
+    background-color:#ffffff;
+    height:36rem;
+    overflow:hidden;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+
+img{
+    margin-top:3rem;
+    height:37rem;
+    margin-left:4.5rem;
+}

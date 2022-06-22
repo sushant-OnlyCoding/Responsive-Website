@@ -1,0 +1,14 @@
+.social-icon .btn{
+    border-radius: 100%;
+    margin-left: 1rem;
+    background-color: #E3FCBF;
+    color:#14C38E;
+    border-color: none;
+}
+.social-icon .btn:hover{
+ color: white;
+ background-color: #026c7a;
+}
+.callus li{
+    list-style-type: disc;
+}
